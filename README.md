@@ -34,6 +34,7 @@ RBN_soil_moisture_detector_Project1-2_LR/
 Assembly
 
 <img width="876" height="586" alt="Screenshot 2025-08-20 090424" src="https://github.com/user-attachments/assets/28c09a8f-47e3-4b5f-b323-c1f7f8a0b123" />
+
 ---
 ## Software & Libraries
 
