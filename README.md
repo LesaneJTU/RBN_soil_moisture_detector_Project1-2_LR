@@ -90,9 +90,8 @@ ASCII Wiring Diagram
         - 9V Battery (Vin + GND)
 ```
 ## CIRCUIT WIRING DIAGRAM
-```
-<img width="790" height="502" alt="image" src="https://github.com/user-attachments/assets/f5c38f20-d9ed-4a84-8a5d-8c08a9e0a925" />
-<img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/628f3c52-6087-48c5-9eea-c15b11de863a" /> 
+<img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/16647565-e7f8-40eb-8a5c-ff4a8a42ae73" />
+
 
 
 
