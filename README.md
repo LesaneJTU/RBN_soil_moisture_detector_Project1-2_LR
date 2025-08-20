@@ -89,3 +89,8 @@ ASCII Wiring Diagram
         - USB to PC
         - 9V Battery (Vin + GND)
 ```
+## PICTURE OF THE 
+```
+<img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/7a48d970-3566-4fb5-9932-38712068f1d8" />
+
+
