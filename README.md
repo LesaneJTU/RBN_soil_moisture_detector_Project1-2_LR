@@ -98,6 +98,6 @@ Gather all items from the Bill of Materials above.
         - USB to PC
         - 9V Battery (Vin + GND)
 ```
-## CIRCUIT WIRING DIAGRAM
+## Circuit of diagram
 <img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/16647565-e7f8-40eb-8a5c-ff4a8a42ae73" />
 
