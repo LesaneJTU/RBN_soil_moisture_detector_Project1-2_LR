@@ -14,7 +14,7 @@ RBN_soil_moisture_detector_Project1-2_LR/
 │── Soil_Detector.png        # Diagram of design
 │── soil_detector.ino        # Arduino code
 ```
-🔧 Hardware Components
+Hardware Components
 
 | Component              | Quantity | Notes                                  |
 |------------------------|----------|----------------------------------------|
