@@ -91,6 +91,5 @@ ASCII Wiring Diagram
 ```
 ## PICTURE OF THE 
 ```
-<img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/7a48d970-3566-4fb5-9932-38712068f1d8" />
 
-
+<img width="1536" height="632" alt="Soil Detector" src="https://github.com/user-attachments/assets/a44a03af-0a5f-4ba5-b37e-c2a83f15b29b" />
