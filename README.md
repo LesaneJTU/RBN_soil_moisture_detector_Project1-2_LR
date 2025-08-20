@@ -89,9 +89,3 @@ ASCII Wiring Diagram
         - USB to PC
         - 9V Battery (Vin + GND)
 ```
-
----
-📊 Future Improvements
-- Add Wi-Fi / IoT support for remote monitoring.  
-- Mobile app integration with data logging.  
-- Solar-powered version for outdoor use.
