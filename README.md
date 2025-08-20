@@ -2,7 +2,7 @@
 Building and Coding a Soil Detector P1
 
 This project is a low-cost soil moisture detector built with Arduino. It measures soil moisture, temperature, humidity, and light, then displays the results on an LCD screen and uses LED indicators to signal soil water levels.  
-📂 Repository Structure
+ Repository Structure
 
 ```
 RBN_soil_moisture_detector_Project1-2_LR/
@@ -31,7 +31,7 @@ RBN_soil_moisture_detector_Project1-2_LR/
 | 9V Battery             | 1        | Power supply                           |
 
 ---
-💻 Software & Libraries
+Software & Libraries
 
 - **Arduino IDE**  
 - Required libraries:  
@@ -39,7 +39,7 @@ RBN_soil_moisture_detector_Project1-2_LR/
   - `DHT.h`  
 
 ---
-🚀 Features
+Features
 
 - Displays **Soil Moisture %, Temperature, Humidity, and Light** on LCD.  
 - **LED indicators** for soil conditions:  
@@ -48,7 +48,7 @@ RBN_soil_moisture_detector_Project1-2_LR/
   - 🔴 Red (blinking) = Moisture < 10%  
 
 ---
-🛠️ How to Build  
+How to Build  
 
 1. Prepare Components  
 Gather all items from the Bill of Materials above.  
@@ -66,7 +66,7 @@ Gather all items from the Bill of Materials above.
 - **Power**: 9V battery or USB  
 
 ---
-🔌 ASCII Wiring Diagram  
+ASCII Wiring Diagram  
 
 ```
               +----------------------+
