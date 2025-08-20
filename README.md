@@ -90,6 +90,7 @@ ASCII Wiring Diagram
         - 9V Battery (Vin + GND)
 ```
 ## PICTURE OF THE 
-```<img width="790" height="502" alt="Screenshot 2025-08-20 085322" src="https://github.com/user-attachments/assets/5aabbe42-38b1-49f1-a0f7-51f519573b63" />
+```
+<img width="790" height="502" alt="Screenshot 2025-08-20 085322" src="https://github.com/user-attachments/assets/5aabbe42-38b1-49f1-a0f7-51f519573b63" />
 
 
