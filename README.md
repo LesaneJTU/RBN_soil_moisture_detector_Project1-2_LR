@@ -66,7 +66,7 @@ Gather all items from the Bill of Materials above.
 
 - **Soil Moisture Sensor** → A0 (analog pin)  
 - **Photoresistor** → A1 (analog pin)  
-- **DHT11 Sensor** → Digital pin 2  
+- **Temperature Sensor [TMP36]** → Digital pin 2  
 - **LCD 16x2 (I2C)** → SDA (A4), SCL (A5)  
 - **LEDs**:  
   - Green → Pin 8  
