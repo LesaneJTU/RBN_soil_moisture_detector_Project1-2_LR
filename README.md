@@ -72,7 +72,7 @@ Gather all items from the Bill of Materials above.
   - Green → Pin 8  
   - Orange → Pin 9  
   - Red → Pin 10  
-- **Power**: 9V battery or USB  
+- **Power**: 9V battery  
 
 ---
 ## ASCII Wiring Diagram  
